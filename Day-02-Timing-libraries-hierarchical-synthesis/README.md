@@ -18,7 +18,7 @@ Hierarchical synthesis preserves module boundaries, while flat synthesis combine
 
 | Experiment | Screenshot |
 |---|---|
-| Hierarchical synthesis | ![Hierarchical synthesis](1_multiple_hier.png) |
+| Hierarchical synthesis | ![Hierarchical synthesis](screenshots/1_multiple_hier.png) |
 | Flat synthesis | ![Flat synthesis](screenshots/2_multiple_flat.png) |
 | Submodule synthesis | ![Submodule synthesis](screenshots/3_sub_module.png) |
 
