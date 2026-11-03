@@ -1,8 +1,5 @@
-# VSD-RTL
 
-# Daily Task Log — 26 October 2026
-
-## Task 1: RTL Design Environment Setup Using GitHub Codespaces
+### RTL Design Environment Setup Using GitHub Codespaces
 
 ### Objective
 To set up an RTL design and simulation environment using GitHub Codespaces and install the essential tools required for Verilog-based digital design.
@@ -49,7 +46,7 @@ To configure and access a preconfigured Ubuntu virtual machine containing the VL
 5. Configured the virtual machine and started it.
 
 ### Outcome
-Setting up a dedicated Ubuntu-based VLSI environment using a preconfigured virtual machine image.
+Set up a dedicated Ubuntu-based VLSI environment using a preconfigured virtual machine image.
 
 ### Purpose
 A preconfigured VLSI machine provides a consistent software environment for semiconductor design and verification tasks without requiring every tool to be installed and configured individually.
