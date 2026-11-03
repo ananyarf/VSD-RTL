@@ -40,7 +40,7 @@ This creates **priority logic**. In hardware, the selection can be implemented u
 
 ### If-Else Hardware
 
-![If else hardware](screenshots/01_if_else_hardware.png)
+![If else hardware](screenshots/01_if_else_hardware.jpg)
 
 The Yosys schematic shows the nested MUX structure corresponding to the priority of the conditions. The first condition has the highest priority, followed by the subsequent conditions.
 
